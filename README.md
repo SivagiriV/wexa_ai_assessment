@@ -211,6 +211,5 @@ silently or throwing a raw error at the user.
   `npm run build`, set `VITE_API_URL` to your deployed backend URL.
 
 Backend deployed in render - https://wexa-ai-assessment.onrender.com
+swagger url for API - https://wexa-ai-assessment.onrender.com/docs
 Frontend deployed in render - https://wexa-ai-assessment-1.onrender.com
-
-## Screenshots
