@@ -210,9 +210,7 @@ silently or throwing a raw error at the user.
 - **Frontend**: any static host (Vercel, Netlify, Cloudflare Pages). Build with
   `npm run build`, set `VITE_API_URL` to your deployed backend URL.
 
-_(Add your live demo link and a short screen recording here before submitting.)_
+Backend deployed in render - https://wexa-ai-assessment.onrender.com
+Frontend deployed in render - https://wexa-ai-assessment-1.onrender.com
 
 ## Screenshots
-
-_(Add screenshots of Expert Search, Person Profile, Path Finder, and Team Skill Gaps here
-before submitting.)_
